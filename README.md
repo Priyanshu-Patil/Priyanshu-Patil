@@ -1,7 +1,12 @@
 ![GitHub Banner](https://github.com/Priyanshu-Patil/Priyanshu-Patil/assets/99969296/33defbc9-bb7e-4dfb-9939-32f4c9f1763a)
 # Hi there I'm Priyanshu !! 👋
 
-Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer with a love for creating innovative and user-friendly applications. I enjoy working with various technologies to bring ideas to life.
+- Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer with a love for creating innovative and user-friendly applications.
+- I enjoy working with various technologies to bring ideas to life.
+- Combining creativity with technical expertise to deliver dynamic and responsive websites.
+- Eager to contribute innovative solutions and drive impactful web development projects.
+
+
 
 ## 🚀 Skills
 

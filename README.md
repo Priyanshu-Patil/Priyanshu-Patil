@@ -6,6 +6,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer with a l
 ## 🚀 Skills
 
 - **Frontend:** HTML | CSS | JavaScript | React | Next.js
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
 - **Backend:** Node.js | Express | Django
 - **Database:** MongoDB | PostgreSQL | MySQL
 - **Tools:** Git | GitHub | Docker

@@ -1,5 +1,5 @@
 ![GitHub Banner](https://github.com/Priyanshu-Patil/Priyanshu-Patil/assets/99969296/33defbc9-bb7e-4dfb-9939-32f4c9f1763a)
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **Priyanshu-Patil/Priyanshu-Patil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,30 @@
 ![GitHub Banner](https://github.com/Priyanshu-Patil/Priyanshu-Patil/assets/99969296/33defbc9-bb7e-4dfb-9939-32f4c9f1763a)
-## Hi there 👋
+# Hi there 👋
 
+Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer with a love for creating innovative and user-friendly applications. I enjoy working with various technologies to bring ideas to life.
+
+## 🚀 Skills
+
+- **Frontend:** HTML | CSS | JavaScript | React | Next.js
+- **Backend:** Node.js | Express | Django
+- **Database:** MongoDB | PostgreSQL | MySQL
+- **Tools:** Git | GitHub | Docker
+- **Others:** RESTful APIs | GraphQL | Responsive Design
+
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/patilpriyanshu/)
+- [Twitter](https://twitter.com/PriyanshPatil14)
+
+Feel free to reach out if you have any questions, want to collaborate, or just chat about tech!
+
+## 📈 GitHub Stats
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priyanshu-Patil&show_icons=true&count_private=true&theme=radical)](https://github.com/Priyanshu-Patil/github-readme-stats)
+
+## 📊 Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Patil&layout=compact)](https://github.com/Priyanshu-Patil/github-readme-stats)
 <!--
 **Priyanshu-Patil/Priyanshu-Patil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

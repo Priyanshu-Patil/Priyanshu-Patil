@@ -1,9 +1,5 @@
 
 ![Young man window](https://github.com/Priyanshu-Patil/Priyanshu-Patil/assets/99969296/077763a6-f3f9-4d1c-8b3a-297a0c9c8a01)
-
-
-
-
 <!--[GitHub Banner](https://github.com/Priyanshu-Patil/Priyanshu-Patil/assets/99969296/33defbc9-bb7e-4dfb-9939-32f4!
 c9f1763a)-->
 # Hi there I'm Priyanshu !! 👋

@@ -1,4 +1,11 @@
-![GitHub Banner](https://github.com/Priyanshu-Patil/Priyanshu-Patil/assets/99969296/33defbc9-bb7e-4dfb-9939-32f4c9f1763a)
+
+![Young man window](https://github.com/Priyanshu-Patil/Priyanshu-Patil/assets/99969296/077763a6-f3f9-4d1c-8b3a-297a0c9c8a01)
+
+
+
+
+<!--[GitHub Banner](https://github.com/Priyanshu-Patil/Priyanshu-Patil/assets/99969296/33defbc9-bb7e-4dfb-9939-32f4!
+c9f1763a)-->
 # Hi there I'm Priyanshu !! 👋
 
 - Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer with a love for creating innovative and user-friendly applications.
@@ -6,26 +13,43 @@
 - Combining creativity with technical expertise to deliver dynamic and responsive websites.
 - Eager to contribute innovative solutions and drive impactful web development projects.
 
+## 🌐 Connect with Me
 
+<div align="left">
+
+[![GitHub](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Priyanshu-Patil)
+[![Twitter](https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PriyanshPatil14)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamrishavanand)
+[![Instagram](https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/priyanshpatil)
+
+</div>
 
 ## 🚀 Skills
 
-- **Frontend:** ![HTML5](https://img.shields.io/badge/HTML5-orange)
-![CSS3](https://img.shields.io/badge/CSS3-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![React](https://img.shields.io/badge/React-blue)
-![Next.js](https://img.shields.io/badge/Next.js-lightgrey)
-- **Backend:** ![Node.js](https://img.shields.io/badge/Node.js-green)
-- **Database:** MongoDB | PostgreSQL | MySQL
-- **Tools:** Git | GitHub | Docker
-- **Others:** RESTful APIs | GraphQL | Responsive Design
+<div align="center">
 
-## 🌐 Connect with Me
+[<img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="75" width="75" style="margin: 30px">](https://www.java.com/)
+[<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" width="75" style="margin: 30px">](https://en.wikipedia.org/wiki/HTML5)
+[<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" width="75" style="margin: 30px">](https://www.w3schools.com/css/)
+[<img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="75" width="75" style="margin: 30px">](https://getbootstrap.com/docs/3.4/javascript/)
+[<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" width="75" style="margin: 30px">](https://www.javascript.com/)
+[<img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="75" width="75" style="margin: 30px">](https://www.typescriptlang.org/)
+[<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="75" width="75" style="margin: 30px">](https://reactjs.org/)
+[<img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="75" width="75" style="margin: 30px">](https://www.tailwindcss.com/)
+[<img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="75" width="75" style="margin: 30px">](https://nodejs.org/)
+[<img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="75" width="75" style="margin: 30px">](https://expressjs.com/)
+[<img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="75" width="75" style="margin: 30px">](https://www.mongodb.com/)
+[<img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" width="75" style="margin: 30px">](https://www.mysql.com/)
+[<img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="75" width="75" style="margin: 30px">](https://redux.js.org/)
+[<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" width="75" style="margin: 30px">](https://github.com/)
+[<img src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="75" width="75" style="margin: 30px">](https://graphql.org/)
+[<img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="75" width="75" style="margin: 30px">](https://firebase.google.com/)
+[<img src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="75" width="75" style="margin: 30px">](https://jquery.com/)
+[<img src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="75" width="75" style="margin: 30px">](https://mui.com/)
+[<img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="75" width="75" style="margin: 30px">](https://nextjs.org/)
 
-- [LinkedIn](https://www.linkedin.com/in/patilpriyanshu/)
-- [Twitter](https://twitter.com/PriyanshPatil14)
+</div>
 
-Feel free to reach out if you have any questions, want to collaborate, or just chat about tech!
 
 ## 📈 GitHub Stats
 

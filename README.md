@@ -4,11 +4,10 @@
 c9f1763a)-->
 # Hi there I'm Priyanshu !! 👋
 
-- Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer with a love for creating innovative and user-friendly applications.
-- I enjoy working with various technologies to bring ideas to life.
-- Combining creativity with technical expertise to deliver dynamic and responsive websites.
-- Eager to contribute innovative solutions and drive impactful web development projects.
-
+- 🧑‍💻 Final-year CS Undergrad | Frontend Dev | Building intuitive & scalable UIs
+- 🌱 Exploring <strong>React, Next.js & AI in Web</strong>
+- 🚀 Open to <strong>internships</strong> & <strong>collabs!</strong>
+- 📩 <a href="mailto:priyanshupatil.dev@gmail.com">priyanshupatil.dev@gmail.com</a>
 ## 🌐 Connect with Me
 
 <div align="left">

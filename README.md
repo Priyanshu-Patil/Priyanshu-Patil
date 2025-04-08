@@ -6,7 +6,7 @@ c9f1763a)-->
 
 - 🧑‍💻 Final-year CS Undergrad | Frontend Dev | Building intuitive & scalable UIs
 - 🌱 Exploring <strong>React, Next.js & AI in Web</strong>
-- 🚀 Open to <strong>internships</strong> & <strong>collabs!</strong>
+- 🚀 Open to <strong>Internships</strong> & <strong>collabs!</strong>
 - 📩 <a href="mailto:priyanshupatil.dev@gmail.com">priyanshupatil.dev@gmail.com</a>
 ## 🌐 Connect with Me
 

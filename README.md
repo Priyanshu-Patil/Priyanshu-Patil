@@ -33,6 +33,7 @@ c9f1763a)-->
 [<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" width="75" style="margin: 30px">](https://www.javascript.com/)
 [<img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="75" width="75" style="margin: 30px">](https://www.typescriptlang.org/)
 [<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="75" width="75" style="margin: 30px">](https://reactjs.org/)
+[<img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="75" width="75" style="margin: 30px">](https://nextjs.org/)
 [<img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="75" width="75" style="margin: 30px">](https://www.tailwindcss.com/)
 <!-- [<img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="75" width="75" style="margin: 30px">](https://nodejs.org/) -->
 <!-- [<img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="75" width="75" style="margin: 30px">](https://expressjs.com/) -->
@@ -44,7 +45,6 @@ c9f1763a)-->
 <!-- [<img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="75" width="75" style="margin: 30px">](https://firebase.google.com/) -->
 <!-- [<img src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="75" width="75" style="margin: 30px">](https://jquery.com/) -->
 <!-- [<img src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="75" width="75" style="margin: 30px">](https://mui.com/) -->
-<!-- [<img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="75" width="75" style="margin: 30px">](https://nextjs.org/) -->
 
 </div>
 

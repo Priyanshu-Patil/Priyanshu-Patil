@@ -2,13 +2,24 @@
 ![Young man window](https://github.com/Priyanshu-Patil/Priyanshu-Patil/assets/99969296/077763a6-f3f9-4d1c-8b3a-297a0c9c8a01)
 <!--[GitHub Banner](https://github.com/Priyanshu-Patil/Priyanshu-Patil/assets/99969296/33defbc9-bb7e-4dfb-9939-32f4!
 c9f1763a)-->
-# Hi there I'm Priyanshu !! 👋
+# Hi, I'm Priyanshu Patil 👋
 
-- 🧑‍💻 Final-year CS Undergrad | Frontend Dev | Building intuitive & scalable UIs
-- 🌱 Exploring <strong>React, Next.js & AI in Web</strong>
-- 🚀 Open to <strong>Internships</strong> & <strong>collabs!</strong>
-- 🌐 [**Visit My Portfolio**](https://priyanshu-patil.vercel.app)
-- 📩 <a href="mailto:priyanshupatil.dev@gmail.com">priyanshupatil.dev@gmail.com</a>
+Full Stack Developer who builds production-ready web applications from idea to deployment.  
+I focus on clean architecture, performance, scalable APIs, authentication, background jobs, and modern UI/UX.
+
+<p align="left">
+  🌐 <a href="https://priyanshu-patil.vercel.app"><b>Visit My Portfolio</b></a>
+</p>
+
+## 🚀 What I Do
+
+- Build modern, responsive frontends using **React / Next.js**
+- Develop scalable backend APIs using **Node.js / Express**
+- Work with databases like **PostgreSQL & MongoDB**
+- Implement **authentication, RBAC, background jobs, and email automation**
+- Integrate AI APIs (Gemini / Google AI) into real products
+
+
 ## 🌐 Connect with Me
 
 <div align="left">
@@ -27,36 +38,25 @@ c9f1763a)-->
 <!---->
 <div align="center">
 
-[<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" width="75" style="margin: 30px">](https://www.javascript.com/)
-[<img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="75" width="75" style="margin: 30px">](https://www.typescriptlang.org/)
-[<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="75" width="75" style="margin: 30px">](https://reactjs.org/)
-[<img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="75" width="75" style="margin: 30px">](https://nextjs.org/)
-[<img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="75" width="75" style="margin: 30px">](https://www.tailwindcss.com/)
-[<img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="75" width="75" style="margin: 30px">](https://getbootstrap.com/docs/3.4/javascript/)
-[<img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="75" width="75" style="margin: 30px">](https://www.java.com/)
-[<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" width="75" style="margin: 30px">](https://en.wikipedia.org/wiki/HTML5)
-[<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" width="75" style="margin: 30px">](https://www.w3schools.com/css/)
-<!-- [<img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="75" width="75" style="margin: 30px">](https://nodejs.org/) -->
-<!-- [<img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="75" width="75" style="margin: 30px">](https://expressjs.com/) -->
-<!-- [<img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="75" width="75" style="margin: 30px">](https://www.mongodb.com/) -->
-<!-- [<img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" width="75" style="margin: 30px">](https://www.mysql.com/) -->
- [<img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="75" width="75" style="margin: 30px">](https://redux.js.org/)
- [<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" width="75" style="margin: 30px">](https://github.com/)
-<!-- [<img src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="75" width="75" style="margin: 30px">](https://graphql.org/) -->
-<!-- [<img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="75" width="75" style="margin: 30px">](https://firebase.google.com/) -->
-<!-- [<img src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="75" width="75" style="margin: 30px">](https://jquery.com/) -->
-<!-- [<img src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="75" width="75" style="margin: 30px">](https://mui.com/) -->
+<img width="500" src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,tailwind,bootstrap" />
+<br/><br/>
+<img width="500" src="https://skillicons.dev/icons?i=java,html,css,nodejs,express" />
+<br/><br/>
+<img width="500" src="https://skillicons.dev/icons?i=mongodb,postgres,redux,git,github,postman" />
 
 </div>
 
+<hr/>
 
-## 📈 GitHub Stats
+<p align="center">
+  🚀 Always building. Always learning. Always shipping.
+</p>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priyanshu-Patil&show_icons=true&count_private=true&theme=radical)](https://github.com/Priyanshu-Patil/github-readme-stats)
+<p align="center">
+  Made with ❤️ by <a href="https://priyanshu-patil.vercel.app"><b>Priyanshu Patil</b></a>
+</p>
 
-## 📊 Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Patil&layout=compact)](https://github.com/Priyanshu-Patil/github-readme-stats)
 <!--
 **Priyanshu-Patil/Priyanshu-Patil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
